@@ -12,7 +12,7 @@
 <!-- About Me -->
 <h1 align="center">About Me</h1>
 
-<h3 align="center">Heyyeah! I'm Maxine. I do just about everything with my strongest point in backend engineering and architecture 👩‍💻👷‍♀️. My primary language is <a href="https://www.typescriptlang.org/">Typescript</a> but I have also done work in <a href="https://www.lua.org/">Lua</a>, <a href="https://www.java.com/en/">Java</a>, and <a href="https://www.python.org/">Python</a> >.<</h3>
+<h3 align="center">Heyyeah! I'm Maxine. I do just about everything with my strongest being in backend engineering and architecture 👩‍💻👷‍♀️. My primary language is <a href="https://www.typescriptlang.org/">Typescript</a> but I have also done work in <a href="https://www.lua.org/">Lua</a>, <a href="https://www.java.com/en/">Java</a>, and <a href="https://www.python.org/">Python</a> >.<</h3>
 
 <!-- Move text down -->
 <br>
