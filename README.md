@@ -21,5 +21,3 @@
 <h3 align="left"> Miscellaneous: </h3>
 
 * Also checkout <a href="https://github.com/The-Astrl-Project">The Astrl Project</a>
-
-* Profile picture by <a href="https://xenia.chimmie.k.vu/#xenia_drawing1"> @gameplayer@mrrp.chimmie.k.vu </a>
