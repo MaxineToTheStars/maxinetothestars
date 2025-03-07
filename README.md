@@ -11,7 +11,7 @@
 
 * <img align="center" height=24 src="https://github.com/MaxineToTheStars/maxinetothestars/blob/main/assets/rocket.png"/> Linux + ARM Enthusiast
 
-* <img align="center" height=24 src="https://github.com/MaxineToTheStars/maxinetothestars/blob/main/assets/rocket.png"/> Creative pursuits include Photography, 3D Modeling, and Graphic Design
+* <img align="center" height=24 src="https://github.com/MaxineToTheStars/maxinetothestars/blob/main/assets/rocket.png"/> Creative pursuits include Astrophotography, 3D Modeling, and Graphic Design
 
 <!-- Links -->
 <h3 align="left"> Links: </h3>
